@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadRezaMozafari
 - 👀 I’m interested in Web development and Drawing
-- 🌱 I’m currently learning javascript(:fire:)
+- 🌱 I’m currently learning Python
 <!--- - 💞️ I’m looking to collaborate on ... 
 --->
 - 📫 you can contact me by Telegram: https://t.me//ahmadreza_mozafari <br>
